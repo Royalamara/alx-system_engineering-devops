@@ -21,4 +21,6 @@
 10-back - cd -
 * Write a script that changes the working directory to the previous one.
 11-lists - ls -la . .. /boot
-* Write a script that lists all files with hidden folders and with parent working directory and /boot 
+* Write a script that lists all files with hidden folders and with parent working directory and /boot
+12-file_type - touch /tmp/iamafile
+* Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script 
