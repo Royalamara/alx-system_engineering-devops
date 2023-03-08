@@ -7,10 +7,12 @@
 3-listfiles -ls -l
 * Display current directory contents in a long format
 4-listmorefiles - ls -la
-Display current directory contents, including hidden files (starting with .)
+*Display current directory contents, including hidden files (starting with .)
 5-listfilesdigitonly - ls -la
-Display current directory contents.Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
+* Display current directory contents.Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
 6-firstdirectory - mkdir /tmp/my_first_directory
-Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+* Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+7-movethatfile - mv /tmp/my_first_directory/betty
+* Move the file betty from /tmp/ to /tmp/my_first_directory 
 
 
