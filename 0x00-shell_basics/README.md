@@ -4,5 +4,6 @@
 * Display the contents list of your current directory
 2-bring_me_home - cd
 * Write a script that changes the working directory to the user’s home directory.
-
+3-listfiles -ls -l
+* Display current directory contents in a long format
 
