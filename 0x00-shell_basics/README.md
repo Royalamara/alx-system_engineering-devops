@@ -12,7 +12,10 @@
 * Display current directory contents.Long format,with user and group IDs displayed numerically,And hidden files (starting with .)
 6-firstdirectory - mkdir /tmp/my_first_directory
 * Create a script that creates a directory named my_first_directory in the /tmp/ directory.
-7-movethatfile - mv /tmp/my_first_directory/betty
-* Move the file betty from /tmp/ to /tmp/my_first_directory 
+7-movethatfile - mv /tmp/betty /tmp/my_first_directory
+* Move the file betty from /tmp/ to /tmp/my_first_directory
+ 8-firstdelete - rm /tmp/my_first_directory/betty
+* Delete the file betty.The file betty is in /tmp/my_first_directory
+
 
 
