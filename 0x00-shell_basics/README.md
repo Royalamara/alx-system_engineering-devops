@@ -18,7 +18,8 @@
 * Delete the file betty.The file betty is in /tmp/my_first_directory
 9-firstdirdeletion - rm -r /tmp/my_first_directory
 * Delete the directory my_first_directory that is in the /tmp directory.
-
+10-back -cd ..
+* Write a script that changes the working directory to the previous one.
 
 
 
